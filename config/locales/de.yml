@@ -76,7 +76,7 @@ de:
   rdb_issue_menu_redmine_issue: Redmine Ticket
   rdb_issue_menu_show: Anzeigen
   rdb_issue_menu_edit: Bearbeiten
-  rdb_issue_menu_assigne_me: Mich zuweisen
+  rdb_issue_menu_assigne_me: Mir zuweisen
   rdb_issue_menu_unassigne_me: Zuweisung entfernen
 
   rdb_flash_illegal_workflow_action: "<p>Diese Änderung verstößt gegen den festgelegten Arbeitsfluss:</p><p><b>%{issue}</b> von <b>%{source}</b> nach <b>%{target}</b> ändern.</p>"
